@@ -1,2 +1,1 @@
-# dice-challange
-a javascript dice challenge game
+TinDog Starting Files
